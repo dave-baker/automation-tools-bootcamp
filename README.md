@@ -35,6 +35,7 @@ Project Participants
 * Jason Howe
 * jgaski
 * Paul English
+* Dave Baker
 * Janna Loeffler
 * Joseph Chilcote
 * James Kolafa
